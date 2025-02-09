@@ -1,6 +1,10 @@
 Title: Introduction
 
 The path of the righteous man is best on all sides..
+<<<<<<< Updated upstream
 And you will know My name is Paco when I lay My Kimchi..
 
 And he died.
+=======
+And you will know My name is the Paco when I lay My
+>>>>>>> Stashed changes
